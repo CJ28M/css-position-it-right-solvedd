@@ -40,7 +40,8 @@ section {
 
 .section-label {
   position: sticky;
-  top: 60px;
+
+  top: 180px;
   width: 100%;
   background-color: #2b2d3b;
   height: max-content;
